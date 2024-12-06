@@ -1,5 +1,20 @@
+<!DOCTYPE html>
 <html>
-.....
-.....
-</html>
-hi
+   <head>
+       <title> registration form </title>
+   </head>
+       <body>
+       <h> registration form </h><br><br>
+       <label> first name </label>
+       <input type="text" name="first name" size="15"/><br><br>
+       <label> last name </label>
+        <input type="text" name="last name" size="15"/><br><br>
+        <label> count </label>
+         <input type="text" count size="15"/><br><br>
+         <label> gender </label>
+          <input type="radio" name="gender" size="15"/><br><br>
+          <label> submit </label>
+           <input type="submit" name="submit" size="15"/><br><br>
+        </body>
+        </html>
+        
